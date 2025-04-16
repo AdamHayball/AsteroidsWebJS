@@ -1,4 +1,4 @@
-# AsteroidsWebJS - Levels, Difficulty, and Score Tracking
+# AsteroidsWebJS
 
 This is a clone of the classic Asteroids game built using JavaScript and HTML5 Canvas. It features:
 
